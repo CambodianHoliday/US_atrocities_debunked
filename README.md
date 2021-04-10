@@ -10,4 +10,5 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 <!-- toc -->
 
 - [Imperialism] (#imperialism)
+  
   --Middle East
