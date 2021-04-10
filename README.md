@@ -1,4 +1,4 @@
-# List of Alleged atrocities committed by US authorities, corrected
+# Debunking the List of Alleged atrocities committed by the US authorities
 Correcting the record on US interventions, covert or overt, human rights matters, etc. This project relies on the established documentary record over anon allegations and sensational headlines. We must not embrace anti-intellectualism for it leads to a world of Idiocracy.
 Leave your fallacies at the door.
 
