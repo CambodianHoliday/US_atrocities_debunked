@@ -9,17 +9,12 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 
 <!-- toc -->
 
-- Imperialism 
-  
+- Alleged Imperialism 
   - Middle East
-  
   - Western Hemisphere
-
   - Africa
-
   - Europe
-
-- Iternal Repression
+- Alleged Iternal Repression
   - Native Americans
   - Black people
   - Women
