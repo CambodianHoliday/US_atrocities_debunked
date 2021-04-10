@@ -10,8 +10,8 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 
 <!-- toc -->
 
-- [Alleged Imperialism](#imperialism)
-  - Middle East
+- [Alleged Imperialism](#Imperialism)
+  - [Middle East](#Middle East)
   - Western Hemisphere
   - Africa
   - Europe
@@ -30,6 +30,6 @@ Putting aside misinformed, inital moral outrage in order to learn the facts, nua
 #Imperialism
 
 
-Middle East
+#Middle East
 
 
