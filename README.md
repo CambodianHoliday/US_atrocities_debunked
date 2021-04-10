@@ -43,6 +43,12 @@ The DoD has presence on only 45 countries, for a total of only 514 sits as of [2
 
 - On January 2nd, 2020, President Donald Trump [authorised a lawful](https://assets.documentcloud.org/documents/6776446/Section-1264-NDAA-Notice.pdf) air strike that killed Qassem Soleimani, leader of the IRGC-Qods Force, a [designated terrorist organisation.](https://www.dni.gov/nctc/ftos.html) "As a matter of International Law, the strike targeting Soleimani in Iraq was taken in United States national self-defense, as recongnized in Article 51 of the United Nations Chater, in response to a series of escalating armed attacks that Iran and Iran-supported militias had already conducted against the United States." For an expert semi-deepdive, I recommend this [read](https://www.lawfareblog.com/was-soleimani-killing-assassination) by two world-leading experts. General Soleimani was actively developing plans to attack American diplomats and service members in Iraq and throughout the region...He had orchestrated attacks...culminating in the death and wounding of additional American and [Iraqi personnel.](https://www.defense.gov/Newsroom/Releases/Release/Article/2049534/statement-by-the-department-of-defense/)" Soleimani is a [well-documented](https://www.wsj.com/amp/articles/the-bloody-legacy-of-qasem-soleimani-11578093506) mass-murderer. His forces are known to rape innocent women on mass and commited many crimes against humanity and war crimes.
 
+- [In September 2019](https://www.reuters.com/article/us-afghanistan-attack-drones/u-s-drone-strike-kills-30-pine-nut-farm-workers-in-afghanistan-idUSKBN1W40NW), a US drone strike targeted Da'esh terrorists in Nangarha province, according to Colonel Sonny Leggett, a spokesman for U.S. forces in Afghanistan. According to the Department of Defense annual report covering CY19 only [8 civilians died](https://media.defense.gov/2020/May/06/2002295555/-1/-1/1/SEC-1057-CIVILIAN-CASUALTIES-MAY-1-2020.PDF), not 30.
+
+- US Navy SEAL, Eddie Gallagher was alleged to have killed innocent civilians. This [turned out](https://www.navytimes.com/news/your-navy/2019/06/21/legal-bombshell-explodes-on-seal-war-crimes-trial/) to be a lie from his junior SEALs.
+They admitted to lying about such accusations. Subsequently, Gallagher was found guilty of one crime he never challenged: Posing for a photo with a body. A complete breakdown of the back history can be found [here.](https://youtu.be/qFe-n4Eu6Mw)
+
+-
 ### Western Hemisphere
 
 ### Africa
