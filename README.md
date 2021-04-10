@@ -13,7 +13,7 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 - [Alleged Imperialism](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#imperialism)
   - [Middle East](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#middle-east)
   - [Western Hemisphere](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#western-hemisphere)
-  - [Africa]
+  - [Africa](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#africa)
   - [Europe]
   - [Asia]
 - [Alleged Internal Repression]
