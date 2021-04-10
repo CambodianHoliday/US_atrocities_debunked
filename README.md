@@ -17,7 +17,7 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
   - [Europe](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#europe)
   - [Asia](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#asia)
 - [Alleged Internal Repression](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#alleged-internal-repression)
-  - [Native Americans]
+  - [Native Americans](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#native-amerians)
   - [Black people]
   - [Women]
   - [Prisoners]
@@ -46,7 +46,7 @@ Putting aside misinformed, inital moral outrage in order to learn the facts, nua
 
 ### Native Amerians
 
-### Black people
+### African-American Community
 
 ### Women
 
