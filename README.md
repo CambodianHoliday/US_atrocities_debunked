@@ -1,5 +1,6 @@
 # List of Alleged atrocities committed by US authorities, corrected
-Correcting the record on US interventions, covert or overt, human rights matters, etc. This project relies on the established documentary record over anon allegations and sensational headlines.
+Correcting the record on US interventions, covert or overt, human rights matters, etc. This project relies on the established documentary record over anon allegations and sensational headlines. We must not embrace anti-intellectualism for it leads to a world of Idiocracy.
+Leave your fallacies at the door.
 
 _Definition: An extremely wicked or cruel act, typically one involving physical violence or injury._
 
@@ -9,7 +10,7 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 
 <!-- toc -->
 
-- Alleged Imperialism 
+- Alleged Imperialism (#imperialism)
   - Middle East
   - Western Hemisphere
   - Africa
@@ -25,3 +26,10 @@ Notes:
 - Try to convey a sense of understanding of complex matters and history. 
 Putting aside misinformed, inital moral outrage in order to learn the facts, nuance and details.
 - This is a living document, it will be updated as new facts are uncovered and information pours in. 
+
+##Imperialism
+
+
+###Middle East
+
+
