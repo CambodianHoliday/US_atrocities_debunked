@@ -20,7 +20,7 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
   - [Native Americans](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#native-amerians)
   - [African-American Community](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#african-american-community)
   - [Women](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#women)
-  - [Prisoners]
+  - [Prisoners](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#prisoners)
   - [LGBTQI]
 
 <!-- tocstop -->
