@@ -19,7 +19,7 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 - [Alleged Internal Repression](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#alleged-internal-repression)
   - [Native Americans](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#native-amerians)
   - [African-American Community](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#african-american-community)
-  - [Women]
+  - [Women](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#women)
   - [Prisoners]
   - [LGBTQI]
 
