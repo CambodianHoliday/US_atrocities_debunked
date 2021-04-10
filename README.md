@@ -22,6 +22,8 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
   - Prisoners
   - LGBTQI
 
+<!-- tocstop -->
+
 Notes:
 - Try to convey a sense of understanding of complex matters and history. 
 Putting aside misinformed, inital moral outrage in order to learn the facts, nuance and details.
