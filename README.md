@@ -12,16 +12,16 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 
 - [Alleged Imperialism](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#imperialism)
   - [Middle East](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#middle-east)
-  - Western Hemisphere
-  - Africa
-  - Europe
-  - Asia
-- Alleged Internal Repression
-  - Native Americans
-  - Black people
-  - Women
-  - Prisoners
-  - LGBTQI
+  - [Western Hemisphere](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#western-hemisphere)
+  - [Africa]
+  - [Europe]
+  - [Asia]
+- [Alleged Internal Repression]
+  - [Native Americans]
+  - [Black people]
+  - [Women]
+  - [Prisoners]
+  - [LGBTQI]
 
 <!-- tocstop -->
 
