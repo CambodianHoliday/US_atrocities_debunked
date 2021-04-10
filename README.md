@@ -29,9 +29,9 @@ Notes:
 Putting aside misinformed, inital moral outrage in order to learn the facts, nuance and details.
 - This is a living document, it will be updated as new facts are uncovered and information pours in. 
 
-#Imperialism
+## Imperialism
 
 
-#Middle East
+## Middle East
 
 
