@@ -15,7 +15,8 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
   - Western Hemisphere
   - Africa
   - Europe
-- Alleged Iternal Repression
+  - Asia
+- Alleged Internal Repression
   - Native Americans
   - Black people
   - Women
@@ -31,7 +32,28 @@ Putting aside misinformed, inital moral outrage in order to learn the facts, nua
 
 ## Imperialism
 
+### Middle East
 
-## Middle East
+### Western Hemisphere
+
+### Africa
+
+### Europe
+
+### Asia
+
+## Alleged Internal Repression
+
+### Native Amerians
+
+### Black people
+
+### Women
+
+### Prisoners
+
+### LGBTQI
+
+
 
 
