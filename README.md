@@ -39,6 +39,7 @@ This is misleading and in factual error.
 The DoD has presence on only 45 countries, for a total of only 514 sits as of [2018.](https://www.acq.osd.mil/eie/Downloads/BSI/Base%20Structure%20Report%20FY18.pdf) This is at the full [consent of host countries.](https://www.state.gov/wp-content/uploads/2020/08/TIF-2020-Full-website-view.pdf)
 
 ### Middle East
+- On February 25th, 2021, in his first month in Office, [President Biden approved](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/27/a-letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution/) airstrikes on lawful infrastructure targets in eastern Syria used by Iran-supported non-state militia groups. These groups were involved in recent attacks against civilians, US and coalition personnel. 0 civilians killed or wounded.
 
 ### Western Hemisphere
 
