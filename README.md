@@ -10,7 +10,7 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 
 <!-- toc -->
 
-- [Alleged Imperialism](#Imperialism)
+- [Alleged Imperialism](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#imperialism)
   - [Middle East](#Middle East)
   - Western Hemisphere
   - Africa
