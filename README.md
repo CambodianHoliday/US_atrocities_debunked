@@ -16,7 +16,7 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
   - [Africa](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#africa)
   - [Europe](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#europe)
   - [Asia](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#asia)
-- [Alleged Internal Repression]
+- [Alleged Internal Repression](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#alleged-internal-repression)
   - [Native Americans]
   - [Black people]
   - [Women]
